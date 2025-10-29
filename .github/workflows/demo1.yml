@@ -23,4 +23,4 @@ jobs:
       - name: Build code
         run: npm run build
       - name: Deploy project
-        run: echo "Deploying on dev..."
+        run: echo "Deploying from dev/hassan..."
